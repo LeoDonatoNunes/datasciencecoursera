@@ -1,5 +1,5 @@
-##Data Science Specialization.md
-li User R
+##Data Science Specialization
+* User R
 ##HelloWorld.md
 datasciencecoursera
 ===================
